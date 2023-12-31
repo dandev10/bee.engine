@@ -1,5 +1,5 @@
 bee engine should basically be a ascii engine.
-use(optinal) and read tutorial.c to test the program.
+use(optional) and read tutorial.c to test the program.
 
 functions:
 - square
