@@ -3,5 +3,7 @@
 
 int main() {
     square();
+    printf("\n");
+    circle();
     return 0;
 }
