@@ -1,3 +1,5 @@
+SRC := bee-engine/plus.c bee-engine/square.c bee-engine/circle.c tutorial.c
+
 all:
-	clang bee-engine/square.c bee-engine/circle.c main.c --std=c17 -o main
+	clang $(SRC) --std=c17 -o main
 	./main
